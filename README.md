@@ -1,6 +1,6 @@
 # GPT-Driven Reinforcement Learning for Memory-Augmented Portfolio Optimization under Policy Shock
 
-This research project studies portfolio allocation across **EUR/USD, GBP/USD, gold, and crude oil**. It combines a Black–Litterman (BL) optimizer with Lag-Llama forecasts, FAISS retrieval of historical market episodes, LLM-generated investment views, and a reinforcement-learning adjustment layer.
+This  project studies portfolio allocation across **EUR/USD, GBP/USD, gold, and crude oil**. It combines a Black–Litterman (BL) optimizer with Lag-Llama forecasts, FAISS retrieval of historical market episodes, LLM-generated investment views, and a reinforcement-learning adjustment layer.
 
 The main question is whether these additional information and learning layers improve allocation relative to a no-views BL baseline and an equal-weight benchmark.
 
