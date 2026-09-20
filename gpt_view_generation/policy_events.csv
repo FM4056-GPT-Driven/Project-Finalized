@@ -1,0 +1,60 @@
+date,type,severity,description,source
+2018-01-22,tariff,medium,Section 201 tariffs on solar panels and washing machines,Wikipedia
+2018-03-01,tariff,high,Trump announces 25% steel and 10% aluminum tariffs (Section 232),Wikipedia
+2018-03-22,tariff,high,Section 301 memorandum directing tariffs on China,Wikipedia
+2018-04-02,tariff,high,China imposes retaliatory tariffs on US goods,Wikipedia
+2018-06-28,tariff,low,Turkey imposes retaliatory tariffs on US goods,Tax Foundation
+2018-07-06,tariff,high,First $34B China tariffs take effect (Stage 1),Tax Foundation
+2018-07-13,tariff,medium,US proposes tariffs on ~$500B of Chinese imports (threat),Tax Foundation
+2018-08-16,tariff,medium,US doubles steel and aluminum tariffs on Turkey,Tax Foundation
+2018-08-23,tariff,medium,Tariffs on remaining $16B Chinese goods take effect,Tax Foundation
+2018-09-24,tariff,high,10% Section 301 tariffs on $200B Chinese goods take effect,Tax Foundation
+2018-12-01,trade_deal,medium,G20: US-China agree to 90-day tariff truce,CNBC
+2019-05-10,tariff,high,US raises tariffs on $200B Chinese goods from 10% to 25%,Tax Foundation
+2019-05-31,tariff,high,Trump threatens 5% tariff on all Mexican imports over immigration,Wikipedia
+2019-06-10,tariff,medium,US indefinitely suspends threatened Mexico tariffs,Wikipedia
+2019-08-01,tariff,high,Trump announces 10% tariff on additional $300B Chinese goods,Wikipedia
+2019-08-23,tariff,high,China retaliates; US raises tariff rates further,Wikipedia
+2019-09-01,tariff,high,Stage 4A tariffs take effect: 15% on ~$112B goods,Tax Foundation
+2019-10-11,trade_deal,high,US-China announce Phase One agreement in principle,Reuters
+2020-01-15,trade_deal,medium,US-China Phase One trade deal signed,Wikipedia
+2020-02-14,tariff,medium,US halves tariffs on $120B Chinese goods to 7.5% (Phase One),Tax Foundation
+2020-03-09,oil_supply,severe,Saudi-Russia oil price war begins; oil price crashes,Reuters
+2020-04-12,oil_supply,high,OPEC+ agrees record production cut,Reuters
+2020-04-20,oil_supply,severe,WTI crude oil futures turn negative for the first time,Reuters
+2022-02-24,geopolitical,severe,Russia invades Ukraine,Reuters
+2022-02-26,sanction,high,US/EU sanction Russia; major banks removed from SWIFT,US Treasury OFAC
+2022-03-08,sanction,high,US bans imports of Russian oil and gas,US Treasury OFAC
+2022-03-16,fed,high,Fed begins hiking cycle (first hike since 2018),Federal Reserve
+2022-06-15,fed,high,"Fed hikes 75 bps, largest since 1994",Federal Reserve
+2023-07-26,fed,medium,Fed hikes to 5.25-5.50% (cycle peak),Federal Reserve
+2024-09-18,fed,high,Fed cuts rates 50 bps (first cut of the cycle),Federal Reserve
+2025-01-29,fed,medium,FOMC rate decision (hold),Federal Reserve
+2025-02-01,tariff,high,"Trump announces IEEPA tariffs on Canada, Mexico and China",Wikipedia
+2025-02-04,tariff,high,10% tariffs on Chinese imports take effect,Wikipedia
+2025-02-13,tariff,medium,Trump orders reciprocal-tariff plan (memorandum),Wikipedia
+2025-03-04,tariff,high,25% Canada/Mexico tariffs take effect; China raised to 20%,Wikipedia
+2025-03-12,tariff,high,25% tariffs on steel and aluminum take effect,Wikipedia
+2025-03-19,fed,medium,FOMC rate decision (hold),Federal Reserve
+2025-03-24,sanction,medium,US threatens secondary tariffs on buyers of Venezuelan oil,Tax Foundation
+2025-03-26,tariff,high,25% tariff on imported automobiles announced,Wikipedia
+2025-04-02,tariff,severe,Liberation Day: reciprocal tariffs; national emergency (EO 14257),NPR / CSIS
+2025-04-05,tariff,high,Baseline 10% tariff on all imports takes effect,CSIS
+2025-04-09,tariff,severe,Higher reciprocal tariffs take effect then paused 90 days; China raised,NTU
+2025-04-11,tariff,severe,"US-China tariff escalation (US to 145%, China to 125%)",Wikipedia
+2025-05-07,fed,medium,FOMC rate decision (hold),Federal Reserve
+2025-05-12,trade_deal,high,US-China agree temporary tariff reduction (Geneva),Reuters
+2025-05-28,court_ruling,high,US Court of International Trade rules IEEPA tariffs unlawful,Tax Foundation
+2025-06-04,tariff,high,US doubles Section 232 steel and aluminum tariffs to 50%,Tax Foundation
+2025-06-18,fed,medium,FOMC rate decision (hold),Federal Reserve
+2025-07-30,fed,medium,FOMC rate decision,Federal Reserve
+2025-08-01,tariff,high,New reciprocal tariff rates take effect,NTU
+2025-09-17,fed,high,Fed cuts rates (first cut of 2025),Federal Reserve
+2025-10-29,fed,high,Fed cuts rates,Federal Reserve
+2025-12-10,fed,high,Fed cuts rates to 3.50-3.75%,Federal Reserve
+2026-01-28,fed,medium,FOMC rate decision (hold),Federal Reserve
+2026-02-20,court_ruling,severe,Supreme Court rules President cannot impose tariffs under IEEPA,Tax Foundation
+2026-02-24,tariff,high,Section 122 tariffs take effect at 10%,Tax Foundation
+2026-03-18,fed,medium,FOMC rate decision (hold),Federal Reserve
+2026-04-29,fed,medium,FOMC rate decision (hold),Federal Reserve
+2026-06-17,fed,medium,FOMC rate decision (hold),Federal Reserve

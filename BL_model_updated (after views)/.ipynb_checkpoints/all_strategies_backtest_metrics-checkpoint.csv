@@ -1,0 +1,5 @@
+,BL_baseline,BL_worldmodel,BL_llm_memory,Equal_weight
+ann_return,0.1278,0.1426,0.1812,0.1291
+ann_vol,0.13,0.1392,0.1413,0.1342
+sharpe,0.9831,1.0242,1.2817,0.9615
+max_drawdown,-0.1326,-0.1355,-0.1164,-0.1375
